@@ -380,12 +380,12 @@ typedef uint8_t uint8_t;
 #define SCM_URL					"https://github.com/speedy005/Ncam/commit/master"
 #define WIKI_URL				"https://wiki.streamboard.tv/wiki"
 #define BOARD_URL				"https://board.streamboard.tv"
-#define CS_VERSION    "_bonecrew_r1.1.7_2025_01_11865_"
+#define CS_VERSION    "_bonecrew_r1.2.0_2025_01_11865_"
 #ifndef CS_REVISION
 #define CS_REVISION   "_bonecrew_"
 #endif
 #ifndef CS_GIT_VERSION
-#define CS_GIT_VERSION "r1.1.7"
+#define CS_GIT_VERSION "r1.2.0"
 #endif
 #ifndef CS_DATE_BUILD
 #define CS_DATE_BUILD  ""

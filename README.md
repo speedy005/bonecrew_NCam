@@ -1,5 +1,6 @@
 NCam: Open Source Conditional Access Module [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![](https://raw.githubusercontent.com/speedy005/bonecrew_NCam/blob/main/webif/images/logo.png "NCam-BoNe-CrEw Version")](/README.md)
+[![]([![](https://github.com/speedy005/bonecrew_NCam/blob/main/webif/images/logo.png "NCam-BoNe-CrEw Version")](/README.md) "NCam-BoNe-CrEw Version")](/README.md)
+
 ===========================================
 **NCam is based on [OSCam](https://svn.streamboard.tv/oscam/trunk/ "streamboard.tv") and [oscam-emu](https://github.com/oscam-emu/oscam-patched):
 [Open Source CAM](https://svn.streamboard.tv/oscam/trunk/README)** Copyright (C) 2009-2020 OSCam developers
